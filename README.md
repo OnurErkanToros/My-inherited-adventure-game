@@ -25,9 +25,9 @@ Zırh koruma kuvveti: 0
 Bölgeler
 ID: 1	 Bölge: Güvenli Ev
 ID: 2	 Bölge: Mağaza
-ID: 1	 Bölge: Mağara
-ID: 3	 Bölge: Nehir
-ID: 2	 Bölge: Orman
+ID: 3	 Bölge: Mağara
+ID: 4	 Bölge: Nehir
+ID: 5	 Bölge: Orman
 Bir bölge seçiniz: 2
 *****************************************************
 Onur Erkan mağazamıza hoşgeldiniz :) sizin için güzel şeylerimiz var!
