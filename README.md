@@ -1,5 +1,5 @@
 # My Inherited Adventure Game
-I won't be able to deal with this project for a while because I have exams. There are a lot of bugs in the game, the first thing I will do when my exams are over is to fix them :)
+I won't be able to deal with this project for a while because I have exams. There are a lot of bugs in the game, the first thing I will do when my exams are over is to fix them :). And I will translate the texts into English for more clarity. I'm sorry it took you the extra effort to understand.
 
 
 ## Console Screen
